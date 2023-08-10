@@ -1,0 +1,9 @@
+com.sankuai.meituan/com.sankuai.meituan:id=gc_poi_container/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView
+
+# 店铺页面分享链接按钮
+com.sankuai.meituan/com.sankuai.meituan:id=gc_poi_container/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[5]/android.widget.ImageView
+com.sankuai.meituan/com.sankuai.meituan:id=gc_poi_container/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[3]/android.widget.ImageView
+# 复制链接按钮
+com.sankuai.meituan/com.sankuai.meituan:id=share_image[4]
+
+

@@ -1,0 +1,6 @@
+com.sankuai.meituan/com.sankuai.meituan:id=normal_cell_view/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.TextView
+com.sankuai.meituan/com.sankuai.meituan:id=normal_cell_view/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[4]/android.view.ViewGroup[2]/android.widget.TextView
+com.sankuai.meituan/com.sankuai.meituan:id=normal_cell_view/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.widget.TextView
+com.sankuai.meituan/com.sankuai.meituan:id=normal_cell_view/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[3]/android.view.ViewGroup[2]/android.widget.TextView
+com.sankuai.meituan/com.sankuai.meituan:id=normal_cell_view/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.widget.TextView
+com.sankuai.meituan/com.sankuai.meituan:id=normal_cell_view/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.widget.TextView
